@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pantocelot
-- 👀 I’m interested in video editing
+- 👀 I’m interested in video editing with Wondershare Filmora and DaVinci Resolve
 - 🌱 I’m currently learning C#, HTML and PHP during class
 
 <!---
