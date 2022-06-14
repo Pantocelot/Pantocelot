@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Pantocelot
 - 👀 I’m interested in video editing with Wondershare Filmora and DaVinci Resolve
 - 🌱 I’m currently learning C#, HTML, PHP and JavaScript during class
+- "blocking out negativity and embracing life fully."
 - https://youtu.be/d0Jyvteqzrw
 
 <!---
